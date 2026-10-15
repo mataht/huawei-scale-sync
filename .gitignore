@@ -1,0 +1,8 @@
+# Publish only these reviewed static files and repository documentation.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!privacy.html
+!terms.html
+!README.md
